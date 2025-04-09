@@ -4,4 +4,5 @@ This project aims to predict student performance using various demographic, acad
 
 ---
 
-🔗 Live Demo: deustudent.streamlit.app
+Access the project via the live web interface:  
+👉 **[https://deustudent.streamlit.app](https://deustudent.streamlit.app)**
